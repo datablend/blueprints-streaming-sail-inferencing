@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.tinkerpop.blueprints:blueprints-neo4j-graph:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.tinkerpop.blueprints:blueprints-core:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jettison:jettison:1.3" level="project" />
+    <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.8.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-asl:1.8.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.8.5" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-kernel:1.5.M01" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-lucene-index:1.5.M01" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-core:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graph-algo:1.5.M01" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-udc:1.5.M01" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graph-matching:1.5.M01" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-cypher:1.5.M01" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.9.0-1" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-jmx:1.5.M01" level="project" />
+    <orderEntry type="library" name="Maven: com.tinkerpop.blueprints:blueprints-graph-sail:1.0" level="project" />
+    <orderEntry type="library" name="Maven: net.fortytwo.sesametools:common:1.4" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-sail-api:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-query:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-model:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-collections:2.8.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-concurrent:2.7.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-io:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-i18n:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-rio-api:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-lang:2.9.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-net:2.7.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-text:2.7.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-iteration:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-queryalgebra-model:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-queryalgebra-evaluation:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-sail-inferencer:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-queryparser-api:2.5.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.openrdf.sesame:sesame-queryparser-serql:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-repository-sail:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-repository-api:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-repository-sail:sources:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-rio-rdfxml:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: info.aduna.commons:aduna-commons-xml:2.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.openrdf.sesame:sesame-queryparser-sparql:2.5.0" level="project" />
+  </component>
+</module>
+
